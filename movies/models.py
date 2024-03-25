@@ -11,5 +11,8 @@ class Movie(models.Model):
 
     class Meta:
         ordering = ['-id']
+        
+        
+
 
 
